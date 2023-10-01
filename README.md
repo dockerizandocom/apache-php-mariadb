@@ -6,7 +6,7 @@ Este proyecto crea un ambiente de desarrollo local con Linux, Apache, MySQL y PH
 Docker
 Docker Compose
 Levantar ambiente
-git clone https://github.com/tu-usuario/docker-lamp
+git clone https://github.com/dockerizandocom/apache-php-mariadb
 Levanta los contenedores:
 docker-compose up -d
 
